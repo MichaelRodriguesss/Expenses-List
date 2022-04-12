@@ -1,4 +1,4 @@
-# Expenses Project
+# Expenses List Project
 
 ---
 
